@@ -1,0 +1,55 @@
+#hometext1 {
+  position: relative;
+  top: 15px;
+  left: 5px;
+  width: 840px;
+  height: 100px;
+}
+
+#hometext2 {
+  position: absolute;
+  top: 250px;
+  left: 5px;
+  width: 300px;
+  height: 150px;
+}
+
+#hometext3 {
+  position: absolute;
+  top: 150px;
+  left: 531px;
+  width: 300px;
+  height: 150px;
+}
+
+#hometext4 {
+  position: absolute;
+  top: 410px;
+  left: 5px;
+  width: 840px;
+  height: 150px;
+}
+
+#homeimg1 {
+  position: absolute;
+  top: 150px;
+  left: 100px;
+  width: 214px;
+  height: 100px;
+}
+
+#homeimg2 {
+  position: absolute;
+  top: 150px;
+  left: 314px;
+  width: 215px;
+  height: 250px;
+}
+
+#homeimg3 {
+  position: absolute;
+  top: 340px;
+  left: 529px;
+  width: 215px;
+  height: 60px;
+}

@@ -1,0 +1,217 @@
+/*
+ * Haupt Layout Container
+ */
+
+/* Header */
+
+#header {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+  width: 1000px;
+  height: 125px;
+  background-color: white;
+}
+
+#header-banner {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 1000px;
+  height: 60px;
+  background-color: #6599FF;
+  background-image: url(/img/title/bg_title.jpg);
+  background-repeat: no-repeat;
+}
+
+#header-title-img {
+  position: relative;
+  top: 5px;
+  left: 550px;
+  width: 341;
+  height: 32;
+}
+
+#header-mainmenu {
+  position: relative;
+  top: 10px;
+  left: 0px;
+  width: 996px;
+  height: 15px;
+  background-color: #6599FF;
+  background-image: url(/img/title/bg_menu.jpg);
+  background-repeat: no-repeat;
+  padding: 2px;
+}
+
+#header-ticker {
+  position: relative;
+  top: 15px;
+  left: 0px;
+  width: 990px;
+  height: 15px;
+  background-color: #FFFFFF;
+  padding: 5px;
+}
+
+#header-line {
+  position: relative;
+  top: 15px;
+  left: 0px;
+  width: 1000px;
+  height: 1px;
+}
+
+#header-dmcball {
+  position: absolute;
+  top: 3px;
+  left: 850px;
+  width: 150px;
+  height: 100px;
+  z-index: 200;
+}
+
+/* Left Column */
+
+#leftcolumn {
+  position: fixed;
+  top: 135px;
+  left: 10px;
+  width: 145px;
+  height: 550px;
+  background-color: #6599FF;
+}
+
+/* Content */
+
+#content {
+  position: fixed;
+  top: 135px;
+  left: 160px;
+  width: 850px;
+  height: 550px;
+  background-color: white;
+}
+
+#content-title {
+  position: relative;
+  top: 15px;
+  left: 5px;
+  width: 840px;
+  height: 30px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #0066FF;
+  text-align: center;
+}
+
+/* Footer */
+
+#footer {
+  position: fixed;
+  top: 690px;
+  left: 10px;
+  width: 1000px;
+  height: 25px;
+}
+
+#footer-row1 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 996px;
+  height: 16px;
+  background-color: #6599FF;
+  background-image: url(/img/title/bg_foot.jpg);
+  background-repeat: no-repeat;
+  padding: 2px;
+  text-align: right;
+}
+
+#footer-row2 {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 996px;
+  height: 20px;
+  background-color: white;
+  padding: 2px;
+  text-align: center;
+}
+
+/*
+ * Allgemeine Styles
+ */
+ 
+body, p, td, a, div, span {
+  font-family:  Arial, Helvetica, Sans-Serif;
+  font-size:    11px;
+}
+
+.text {
+  font-size :   11px;
+}
+
+.smalltext {
+  font-size :   9px;
+}
+
+.subtitle {
+  font-size:    14px;
+  color:        #0066FF;
+  font-weight:  bold;
+  text-align:   left;
+}
+
+.title {
+  font-size:        14px;
+  color:            #0066FF;
+  font-weight:      bold;
+}
+
+a:link {
+  text-decoration: none;
+  color: #0066FF;
+}
+
+a:hover {
+  text-decoration: none;
+  color: #FFCC00;
+}
+
+a:active {
+  text-decoration: none;
+  color: #FFCC00;
+}
+
+a:visited  {
+  text-decoration: none;
+  color: #0066FF;
+}
+
+
+
+/*
+ * Hauptmenue
+ */
+ 
+.mainmenu {
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+.mainmenu_actv {
+  font-weight: bold;
+  padding-left: 5px;
+}
+
+a.mainmenu_actv:link {
+  text-decoration: none;
+  color: #FFCC00;
+}
+
+a.mainmenu_actv:visited {
+  text-decoration: none;
+  color: #FFCC00;
+}
+
