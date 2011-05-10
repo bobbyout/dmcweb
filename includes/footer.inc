@@ -6,9 +6,9 @@
   </div>
 
   <div id="footer-row2">
-    &copy; 2008 - 2011 by Bobby Out -
+    &copy; 2008 - 2011 -
     1. Duisburger Minigolf-Club 1962 e.V. -
-    Heimanlage in Duisburg-Ungelsheim -
-    <a href="mailto:webmaster@duisburger-mc.de">webmaster@duisburger-mc.de</a>
+    Heimanlage: Am Heidberg; Duisburg-Ungelsheim -
+    <a href="mailto:info@duisburger-mc.de">info@duisburger-mc.de</a>
   </div>
 </div>

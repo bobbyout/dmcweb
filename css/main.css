@@ -82,6 +82,24 @@
   background-color: #6599FF;
 }
 
+#submenu {
+  position: relative;
+  top: 25px;
+  left: 10px;
+  width: 125px;
+  height: 150px;
+  color: #FFCC00;
+}
+
+#impressum {
+  position: absolute;
+  top: 370px;
+  left: 10px;
+  width: 125px;
+  height: 150px;
+  color: #FFCC00;
+}
+
 /* Content */
 
 #content {
@@ -103,6 +121,30 @@
   font-weight: bold;
   color: #0066FF;
   text-align: center;
+}
+
+#content-column-1 {
+  position: absolute;
+  top: 75px;
+  left: 5px;
+  width: 270px;
+  height: 470px;
+}
+
+#content-column-2 {
+  position: absolute;
+  top: 75px;
+  left: 285px;
+  width: 270px;
+  height: 470px;
+}
+
+#content-column-3 {
+  position: absolute;
+  top: 75px;
+  left: 565px;
+  width: 270px;
+  height: 470px;
 }
 
 /* Footer */
