@@ -8,7 +8,7 @@
   <div id="footer-row2">
     &copy; 2008 - 2011 -
     1. Duisburger Minigolf-Club 1962 e.V. -
-    Heimanlage: Am Heidberg; Duisburg-Ungelsheim -
+    Heimanlage: Am Heidberg 20; Duisburg-Ungelsheim -
     <a href="mailto:info@duisburger-mc.de">info@duisburger-mc.de</a>
   </div>
 </div>

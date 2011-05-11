@@ -4,7 +4,7 @@
 
     <p>
       1. Duisburger MC<br />
-      Kärntener Str. 3<br />
+      Kärntener Str. 37<br />
       47249 Duisburg<br />
     </p>
 
